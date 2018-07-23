@@ -1,0 +1,142 @@
+#background{
+	background: url(fun.jpg);
+
+}
+
+
+
+#container{
+	
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header{
+	color: red;
+	background:#40281A; 
+	
+	text-align: center;
+	padding: 0px;
+}
+#navigator{
+	background:#e6ccff;
+	
+	text-align: center;	
+}
+#navigator ul li{
+	display: inline-block;
+	padding: 15px 50px;
+	margin: 2px;
+}
+#shatta{
+	color: #40281A;
+	text-align: left;
+	border-radius: 5px;
+	background:#e6ccff;
+	width: 250px;
+	text-align: center;
+	text-align: left;
+	
+	
+	
+}
+#stone{
+	color: white;
+	text-align: left;
+	border-radius: 5px;
+	background: #33cccc;
+	width: 250px;
+	text-align: center;
+
+	
+}
+#diehard{
+	color: white;
+	text-align: left;
+	border-radius: 5px;
+	background: #33cccc;
+	width: 600px;
+	text-align: center;
+	
+}
+#batman{
+	color: black;
+	text-align: left;
+	border-radius: 5px;
+	background: #ffcc66;
+	width: 600px;
+	text-align: center;
+}
+
+.trending{
+	background: #40281A;
+	color: red;
+	width: 250px;
+	padding: 1px;
+	text-align: center;
+	border-radius: 5px;
+
+}
+#music{
+	width: 200px;
+	
+	float: left;
+}
+#video{
+	width:600px;
+	
+	float: right;
+}
+#foot{
+	float: right;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+	width: 900px;
+	background: #40281A;
+	text-align: right;
+	color: white;
+	padding: 5px;
+}
+
+
+#funny{
+	width: 600px;
+	background: #999966;
+	border-radius: 5px;
+	text-align: center;
+}
+
+#live{
+	background: #ff3300;
+	text-align: center;
+	border-radius: 50px;
+	padding: 5px;
+}
+#contacts{
+	width: 900px;
+	background: #999;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 100%;
+	padding: 8%;
+
+}
+#footer{
+	margin-right: auto;
+	margin-left: auto;
+	
+	width: 900px;
+	background: #40281A;
+	text-align: right;
+	color: white;
+	padding: 5px;
+}
+#rihanna{
+	
+	margin-right: auto;
+	margin-left: auto;
+}
